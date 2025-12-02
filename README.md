@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-47A248?style=flat&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-4285F4?style=flat&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=flat&logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 SmartExtract AI is an AI-powered automation platform for extracting structured fields from procurement & RFP documents (PDF/DOCX) using *Gemini + RAG* without OCR. The system provides an editable dashboard for verification and approval, and stores finalized documents in a searchable database.
@@ -13,7 +13,7 @@ SmartExtract AI is an AI-powered automation platform for extracting structured f
 ### Core System Capabilities
 
 - 📄 **Document Upload** (PDF & DOCX)
-- 🤖 **AI-Based Field Extraction** (Gemini 1.5 Flash + RAG)
+- 🤖 **AI-Based Field Extraction** (Gemini 2.5 Flash + RAG)
 - 🧾 **Extracts procurement fields like:**
   - Title, File Number, Bid Deadline
   - Vendor & Contact Information
