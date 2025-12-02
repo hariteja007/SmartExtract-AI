@@ -1,0 +1,39 @@
+
+---
+
+# 🟦 **.gitignore (Add into root folder)**
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# FastAPI / local cache
+*.log
+.cache/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+tmp/
+
+# Virtual notebooks
+.ipynb_checkpoints/
+
+# Local configs
+config.json
+.env
