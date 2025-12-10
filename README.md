@@ -36,7 +36,7 @@ SmartExtract AI is an AI-powered automation platform for extracting structured f
 - **FastAPI**
 - **Python 3.10+**
 - **MongoDB**
-- **Gemini 1.5 Flash**
+- **Gemini 2.5 Flash**
 - **uuid, Pydantic, CORS**
 
 ### Frontend
